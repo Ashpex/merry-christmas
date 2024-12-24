@@ -195,12 +195,12 @@ $(document).ready(function() {
                     $(".message").typed({
                         strings: [
                         "<<< Merry Christmas >>>",
-                        "Chúc Diệp có một mùa giáng sinh an lành và ấm áp bên người thân và bạn bè :) Nghe nhạc zui zẻ nha!!!",
+                        "You’re the friend I sometimes feel I don’t deserve, yet you’ve been a constant source of love and support, and I’m endlessly grateful for you. Thank you for always being there when I need you most, lifting me up with your kindness and understanding. Merry Christmas to someone who truly means the world to me — I’m incredibly lucky to have you in my life.",
                         ],
-                        typeSpeed: 250,
-                        startDelay: 500,
+                        typeSpeed: 350,
+                        startDelay: 300,
                         backSpeed: 50,
-                        backDelay: 500,
+                        backDelay: 300,
                         loop: true,
                         contentType: 'html',
                         showCursor: false
