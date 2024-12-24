@@ -197,10 +197,10 @@ $(document).ready(function() {
                         "<<< Merry Christmas >>>",
                         "You’re the friend I sometimes feel I don’t deserve, yet you’ve been a constant source of love and support, and I’m endlessly grateful for you. Thank you for always being there when I need you most, lifting me up with your kindness and understanding. Merry Christmas to someone who truly means the world to me — I’m incredibly lucky to have you in my life.",
                         ],
-                        typeSpeed: 350,
-                        startDelay: 300,
+                        typeSpeed: 600,
+                        startDelay: 200,
                         backSpeed: 50,
-                        backDelay: 300,
+                        backDelay: 200,
                         loop: true,
                         contentType: 'html',
                         showCursor: false
